@@ -7,9 +7,9 @@ IPython notebook
 
 ## Files
 
-createTeam.ipynb - to be used when creating a team for the first time
-findTransfer11.ipynb - used to find "best" transfer for the week
-renameHTML.bat - used to change html files to txt files
+* createTeam.ipynb - to be used when creating a team for the first time
+* findTransfer11.ipynb - used to find "best" transfer for the week
+* renameHTML.bat - used to change html files to txt files
 
 ## Getting started
 
