@@ -9,7 +9,7 @@ IPython notebook
 
 * createTeam.ipynb - to be used when creating a team for the first time
 * findTransfer11.ipynb - used to find "best" transfer for the week
-* renameHTML.bat - used to change html files to txt files
+* renameHTML.bat - Changes all ".html" files to ".txt" files in whatever folder you run the script in. Useful for the previous 2 scripts (where it is required to change a bunch of html files to txt files) 
 
 ## Getting started
 
